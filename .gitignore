@@ -4,10 +4,14 @@ twitter_key.py
 twitter_key.pyc
 credentials.py
 credentials.pyc
+goodreads.py
+goodreads.pyc
 
 
-# notebook auto-saves #
+# auto-saves #
 .ipynb_checkpoints/
+__pycache__/
+
 
 
 # Compiled source #
